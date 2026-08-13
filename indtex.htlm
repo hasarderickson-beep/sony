@@ -1,1 +1,56 @@
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SONYLEY | Excellence & Innovation</title>
+
+    <meta name="description"
+          content="SONYLEY - Une entreprise engagée dans l'innovation, le développement et la qualité des services.">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+    <div class="container nav-container">
+
+        <a href="#accueil" class="logo">
+            <span>SONY</span>LEY
+        </a>
+
+        <button class="menu-toggle" id="menuToggle">
+            ☰
+        </button>
+
+        <nav class="navigation" id="navigation">
+            <a href="#accueil">Accueil</a>
+            <a href="#apropos">À propos</a>
+            <a href="#services">Services</a>
+            <a href="#valeurs">Nos valeurs</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+    </div>
+</header>
+
+
+<main>
+
+<!-- ACCUEIL -->
+
+<section class="hero" id="accueil">
+
+    <div class="hero-overlay"></div>
+
+    <div class="container hero-content">
+
+        <p class="hero-small-title">
+            BIENVENUE CHEZ SONYLEY
+        </p>
+
+        <h1>
+            Construire aujourd'hui
